@@ -1,7 +1,7 @@
 # Totally not something sus
 These instructions are in Chinese, specifically simplified. I've just simply cloned this off the original repository since Heroku likes blacklisting repos. I've tried translate parts of it (for my own reference, i live in hk so i understand most simplified)
 
-**若需部署 sus VLESS，请转到分支。** click here to deploy v less (removed)
+**若需部署 (censored)，请转到分支。** click here to deploy (censored) (removeduwuwu)
 
 ## 概述 Overview
 
